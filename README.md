@@ -30,7 +30,7 @@ This project analyzes credit default prediction performance using LendingClub's 
 
 ---
 
-## 🔬 Technical Approach
+## Technical Approach
 
 ### Models Implemented
 1. **XGBoost** - Gradient Boosting with tree-based learners
@@ -147,7 +147,7 @@ Critical preprocessing to remove post-loan variables:
 
 ---
 
-## 📜 License
+## License
 
 This project is available under the MIT License. See `LICENSE` for details.
 

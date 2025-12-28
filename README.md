@@ -74,7 +74,8 @@ This setup mimics a realistic **credit risk stress-testing scenario**.
 ![Normal Default Rate](images/normal_default.png)
 ### Crisis Period Distribution
 ![Crisis Default Rate](images/crisis_default.png)
-Observed default rates during the crisis period are not dramatically higher.  
+
+Observed default rates during the crisis period are not higher than the normal period.  
 This is likely due to stricter loan approvals and selection bias toward higher-quality borrowers.
 
 ---
